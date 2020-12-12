@@ -1,1 +1,1 @@
-# artificial-intelligence-research
+# Artificial-Intelligence-Research
